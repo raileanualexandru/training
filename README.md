@@ -1,0 +1,2 @@
+# training
+understanding GIT
